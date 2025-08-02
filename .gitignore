@@ -3,10 +3,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-src/main/java/lk/ijse/mushroom/dao/*
-src/main/java/lk/ijse/mushroom/controller/*
-
-
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
